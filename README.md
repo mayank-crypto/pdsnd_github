@@ -1,5 +1,5 @@
 Bikeshare Project
-by Manpreet Kunnath
+by Mayank Chaturvedi
 This is a Bikeshare Project created for Udacity's Machine Learning Foundation Nanodegree Program.
 
 Description
