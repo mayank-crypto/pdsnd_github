@@ -34,4 +34,5 @@ Open either the terminal in Linux or command prompt in Windowns in this location
 python bikeshare.py
 The program will execute
 
-made changes in the refactory branch
+Changes made in the refactory branch.
+Change 2 :- This repository contain information about Bikeshare data.
