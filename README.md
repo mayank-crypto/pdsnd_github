@@ -27,6 +27,8 @@ Requirements
 Python 3 is required to run this project
 
 How to run
+
+Created a documentation branch and made changes to the readme file.
 Download the project locally on your computer. Extract the project and navigate to the project directory. Place the datasets in this directory
 
 Open either the terminal in Linux or command prompt in Windowns in this location and type the following command.
